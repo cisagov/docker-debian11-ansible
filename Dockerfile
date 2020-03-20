@@ -1,5 +1,5 @@
-FROM debian:buster
-LABEL maintainer="Jeff Geerling"
+FROM debian:bullseye
+LABEL maintainer="Shane Frasier"
 
 ENV DEBIAN_FRONTEND noninteractive
 
