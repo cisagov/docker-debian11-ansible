@@ -2,8 +2,6 @@
 
 [![CI](https://github.com/cisagov/docker-debian11-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/cisagov/docker-debian11-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/cisagov/docker-debian11-ansible)](https://hub.docker.com/r/cisagov/docker-debian11-ansible/)
 
-## How to Build ##
-
 ## Tags
 
   - `latest`: Latest stable version of Ansible, with Python 3.x.
